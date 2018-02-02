@@ -1,0 +1,75 @@
+body {
+  background-color: rgb(55, 55, 51);
+}
+input {
+  display: flex;
+  flex-direction: row;
+  float: right;
+}
+main {
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+body {
+  max-width: 40%;
+  margin: auto;
+}
+form p {
+  display: inline-block;
+
+}
+form input {
+  display: block;
+  margin-top: 15px;
+}
+h1 {
+  font-family: 'Berkshire Swash';
+  text-align: left;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+  font-size: 70px;
+  margin: 20px;
+}
+h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+button {
+  float: right;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(171, 37, 19);
+  }
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(150, 37, 19);
+}
+footer {
+  background-color: rgb(83, 82, 69);
+  text-align: center;
+  padding: 10px;
+  color: white;
+  font-size: 12px;
+}
+button {
+  margin-right: 90px;
+}
